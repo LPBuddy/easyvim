@@ -23,4 +23,4 @@ require("lazy").setup({
 	checker = { enabled = false },
 })
 
-pcall(vim.cmd.colorscheme, "dayfox")
+pcall(vim.cmd.colorscheme, "rose-pine-moon")
